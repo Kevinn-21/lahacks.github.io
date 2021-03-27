@@ -1,1 +1,1 @@
-# DonationForCause
+# DonateForCause
